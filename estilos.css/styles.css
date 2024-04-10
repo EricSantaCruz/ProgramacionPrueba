@@ -1,3 +1,13 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/wp11824914.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0;
+    font-family: Monaco , monospace;
+}
 ul{
     display: flex;
     list-style: none;
@@ -27,7 +37,7 @@ img{
 }
 
 .menu {
-    background-color: #636363;
+    background-color: #1ec7fab7;
 }
 
 .menu ul {
@@ -43,13 +53,13 @@ img{
 .menu ul li a {
     display: block;
     padding: 10px 20px;
-    color: #fff;
+    color: #000000;
     text-decoration: none;
     
 }
 
 .menu ul li a:hover {
-    background-color: #555;
+    background-color: #1ec7fa;
 }
 
 .contenido {
